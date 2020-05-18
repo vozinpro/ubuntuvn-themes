@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ubuntuvn-light
+Comment=Ubuntuvn-light
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Ubuntuvn-light
+MetacityTheme=Ubuntuvn-lighte
+IconTheme=Flat-Remix-Blue
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
