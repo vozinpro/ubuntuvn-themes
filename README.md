@@ -2,9 +2,7 @@
 
 These themes are based on Flat-Remix ([daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk)) and customized specially for Ubuntuvn respin cinnamon.
 
-Download iso for installation at 
-
-[ubuntuvn.vozin.pro/download](https://ubuntuvn.vozin.pro/download)
+Download iso for distro installation at [ubuntuvn.vozin.pro/download](https://ubuntuvn.vozin.pro/download)
 
 ### Installation
   Download and extract Ubuntuvn-* to ~/.themes
